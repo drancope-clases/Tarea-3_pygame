@@ -16,4 +16,9 @@ while True:
     screen.fill(SKY)
     pygame.draw.circle(screen, YELLOW, (700,100), 60)
     pygame.draw.rect(screen, GREEN, [(0, 350), (800,150)])
+    #Continúa el programa aquí debajo
+    
+    
+    
+    
     pygame.display.flip()
